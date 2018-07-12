@@ -19,7 +19,7 @@ We've formatted the data from NYC Open Data about recycling bins around the city
 
 ## Getting Started
 
-You'll be coding your solutions in `lib/recyling.rb`. There is already some pre-written code in this file. Feel free to read the comments that explain how this code works. Those lines of code are retrieving the data from NYC Open Data. 
+You'll be coding your solutions in `lib/recyling.rb`. There is already some pre-written code in this file. Feel free to read the comments that explain how this code works. Those lines of code are retrieving the data fmmrom NYC Open Data. 
 
 You have four hashes to work with, stored in four different variables:
 
